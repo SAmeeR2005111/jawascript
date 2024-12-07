@@ -1,4 +1,4 @@
 # jawascript
 first jawascript repo
 <br>
-Author - Sameer yadav
+Author - Sameer 
