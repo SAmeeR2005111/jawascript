@@ -1,2 +1,2 @@
 # jawascript
-first jawa repo
+first jawascript repo
